@@ -3,6 +3,18 @@
     src: url("LibertinusSerif-Regular.ttf");
 }
 
+@font-face {
+    font-family: Libertinus;
+    src: url("LibertinusSerif-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Libertinus;
+    src: url("LibertinusSerif-Italic.ttf");
+    font-style: italic;
+}
+
 html {
     font-family: Libertinus, serif;
     font-size: 26px;
