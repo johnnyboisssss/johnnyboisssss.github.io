@@ -1,12 +1,14 @@
+@font-face {
+    font-family: Libertinus;
+    src: url("LibertinusSerif-Regular.ttf");
+}
+
 html {
+    font-family: Libertinus, serif;
     font-size: 26px;
     max-width: 650px;
     margin: 100px auto;
     padding: 0 100px;
     color: #aaaaaa;
     background-color: #111111;
-}
-
-@media (pointer: coarse) and (max-width: 768px) {
-    html { font-size: 40px; }
 }
