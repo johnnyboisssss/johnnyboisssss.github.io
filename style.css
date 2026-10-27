@@ -24,3 +24,7 @@ html {
     color: #aaaaaa;
     background-color: #111111;
 }
+
+a, a:visited {
+    color: inherit;
+}
